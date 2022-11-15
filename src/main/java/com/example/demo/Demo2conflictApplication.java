@@ -8,6 +8,8 @@ public class Demo2conflictApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Demo2conflictApplication.class, args);
+		
+		int c=78;
 	}
 
 }
